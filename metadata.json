@@ -1,0 +1,6 @@
+{
+  "name": "眾神靈籤 - 聯合眾神大會與AI運勢解籤",
+  "description": "匯聚玉皇大帝、觀世音菩薩、媽祖、關聖帝君、註生娘娘、文昌帝君、土地公等多尊神明之靈驗籤詩，結合誠心稟報、擲筊抽籤儀式、聯合眾神大會圓桌解惑及現代AI全方位運勢策略分析。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
